@@ -1,2 +1,3 @@
 # neurodex-meta
-Neurodex public resources
+
+Public resources for [Neurodex | Neurobro Terminal](https://neurodex.ai)
